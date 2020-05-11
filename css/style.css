@@ -1,0 +1,26 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style0 {
+  display: grid;
+  margin-left: 7.395833333333333vw;
+  margin-top: 11.11111111111111vh;
+  width: 11.458333333333334vw;
+  grid: none/repeat(auto-fit,minmax(100px,1fr));
+  grid-gap: 1.0416666666666667vw
+}
+.style1,
+.style2,
+.style3,
+.style4 {
+  background-color: red;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000
+}
+.breakpoint-0 {
+  display: block
+}
